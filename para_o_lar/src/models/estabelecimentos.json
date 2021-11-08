@@ -1,0 +1,46 @@
+[
+    {
+        "id" : 1,
+        "likes": 0,
+        "deslikes" : 0,
+        "nome" : "Tonny's Bar",
+        "endereco" : "Avenida Viana Bandeira",
+        "numero" : 22,
+        "bairro" : "centro",
+        "cidade" : "Santo Amaro",
+        "telefone" : "98267-7879",
+        "pagamento" : ["dinheiro", "cartao", "pix"],
+        "delivery" : true,
+        "show" : true       
+    },
+
+    {
+        "id" : 2,
+        "likes": 0,
+        "deslikes" : 0,
+        "nome" : "Lá em Carla",
+        "endereco" : "Avenida Ferreira Bandeira",
+        "numero" : 161,
+        "bairro" : "centro",
+        "cidade" : "Santo Amaro",
+        "telefone" : "99903-1985",
+        "pagamento" : ["dinheiro", "cartao", "pix"],
+        "delivery" : true,
+        "show" : true
+    },
+
+    {
+        "id" : 3,
+        "likes": 0,
+        "deslikes" : 0,
+        "nome" : "075 Santinho",
+        "endereco" : "Avenida Viana Bandeira",
+        "numero" : 450,
+        "bairro" : "verde vale",
+        "cidade" : "Santo Amaro",
+        "telefone" : "99105-0477",
+        "pagamento" : ["cartao", "pix"],
+        "delivery" : false,
+        "show" : false
+    }
+]
